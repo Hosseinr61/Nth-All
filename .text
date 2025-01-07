@@ -1,6 +1,4 @@
-vless://e23fc9e2-c5c2-4852-9086-ade28986af33@104.18.189.219:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Hr61.PaGeS.DeV.&fp=randomized&type=ws&sni=hR61.pAgEs.dEv.#%F0%9F%87%A9%F0%9F%87%AAAllNet%C2%B9
-vless://636d830b-c5c1-495f-870b-da7d92bb46b3@92.223.124.62:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=apx.com&fp=firefox&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AAAllNet%C2%B2
-vless://636d830b-c5c1-495f-870b-da7d92bb46b3@gc1.ydns.eu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=apx.com&type=ws#%F0%9F%87%A9%F0%9F%87%AAMCI%C2%B9
-vless://e23fc9e2-c5c2-4852-9086-ade28986af33@95.85.95.85:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=gc-hr61.cf-w1.us.kg&fp=firefox&type=ws&sni=gcore.com#%F0%9F%87%A9%F0%9F%87%AAMCI%C2%B2
-vless://e23fc9e2-c5c2-4852-9086-ade28986af33@146.75.45.57:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2&host=aezakmi.com&fp=chrome&type=ws&sni=fastly.com#%F0%9F%87%A9%F0%9F%87%AAMTN%C2%B9
-vless://e23fc9e2-c5c2-4852-9086-ade28986af33@146.75.46.57:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=aezakmi.com&fp=firefox&type=ws&sni=fastly.com#%F0%9F%87%A9%F0%9F%87%AAMTN%C2%B2
+vless://22aae87d-e9be-43d5-a6ac-aa59469431ea@81.28.12.12:80?encryption=none&security=none&type=ws&host=cdn.hr61.com&path=%2FMgo7HOvatCkf4FoC%3Fed%3D2560#AllNet%20-1
+vless://22aae87d-e9be-43d5-a6ac-aa59469431ea@81.28.12.12:443?encryption=none&security=tls&sni=gcore.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=cdn.hr61.com&path=%2FMgo7HOvatCkf4FoC%3Fed%3D2560#AllNet%20-2
+vless://22aae87d-e9be-43d5-a6ac-aa59469431ea@81.28.12.254:80?encryption=none&security=none&type=ws&host=cdn.hr61.com&path=%2FMgo7HOvatCkf4FoC%3Fed%3D2560#AllNet%20-3
+vless://22aae87d-e9be-43d5-a6ac-aa59469431ea@81.28.12.254:443?encryption=none&security=tls&sni=gcore.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=cdn.hr61.com&path=%2FMgo7HOvatCkf4FoC%3Fed%3D2560#AllNet%20-4
